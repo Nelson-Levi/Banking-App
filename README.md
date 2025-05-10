@@ -14,7 +14,7 @@
 Steps to build and/or run the software:
 
 1. Open the Program.cs file in Visual Studio Code.
-2. From the upper menu, select Run Run Without Debugging.
+2. From the upper menu, select Run -> Run Without Debugging.
 3. Alternatively, while viewing the Program.cs file in Visual Studio Code, use Ctrl + F5 keyboard shortcut.
 
 Instructions for using the software:
@@ -49,7 +49,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [W3schools Java Tutorial](https://www.w3schools.com/java/)
-* [Stack Overflow (there were many Stack Overflow threads I visited, this is just one of many)](https://stackoverflow.com/questions/53210804/getting-undefined-with-static-get)
+* [Stack Overflow (there were several Stack Overflow threads I visited, this is just one of many)](https://stackoverflow.com/questions/53210804/getting-undefined-with-static-get)
 * [Official Java Documentation](https://docs.oracle.com/en/java/javase/24/index.html)
 
 ## Future Work
